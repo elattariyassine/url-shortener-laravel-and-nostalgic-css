@@ -31,11 +31,11 @@
     <li>Create a database locally utf8_general_ci.</li>
     <li>Rename .env.example file to .envinside your project root and fill the database information.</li>
     <li>Open the console and cd your project root directory.</li>
-    <li>Run composer install or php composer.phar install.</li>
-    <li>Run php artisan key:generate.</li>
-    <li>Run php artisan migrate.</li>
-    <li>Run php artisan db:seed to run seeders, if any.</li>
-    <li>Run php artisan serve</li>
+    <li><code>Run composer install</code> or <code>php composer.phar install</code></li>
+    <li><code>Run php artisan key:generate</code>.</li>
+    <li><code>Run php artisan migrate</code></li>
+    <li><code>Run php artisan db:seed</code> to run seeders, if any.</li>
+    <li><code>Run php artisan serve</code></li>
 </ul>
 <br/>
 #####You can now access your project at localhost:8000 :)
