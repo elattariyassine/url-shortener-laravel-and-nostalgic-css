@@ -1,4 +1,4 @@
-# APP SCREEN SHOTS:
+# APP SCREENSHOTS:
 <br/>
 <p>URL SHORTENER with laravel 5 and design with Nostalgic css (you can check on github):</p>
 <ul>
@@ -15,4 +15,12 @@
 <p align="center">
   <img src="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css/blob/master/Github-images/localhost.png?raw=true"  title="hover text"> 
 </p>
-
+<p align="center">
+  <img src="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css/blob/master/Github-images/add-link.png?raw=true"  title="hover text"> 
+</p>
+<p align="center">
+  <img src="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css/blob/master/Github-images/shorted-link.png?raw=true"  title="hover text"> 
+</p>
+<p align="center">
+  <img src="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css/blob/master/Github-images/error-case.png?raw=true"  title="hover text"> 
+</p>
