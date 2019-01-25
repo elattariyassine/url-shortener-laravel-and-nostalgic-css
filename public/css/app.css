@@ -1,0 +1,130 @@
+		html, body, pre, code, kbd, samp 
+		{
+            font-family: 'Press Start 2P', cursive;
+        }
+        p
+        {
+        	margin-top: 1em;
+        }
+		.error-msg
+		{
+			color: #fff;
+			font-style: italic;
+			font-weight: bold;
+		}
+		.shortedURL
+		{
+			color: #ccc;
+		}
+		.H1result
+		{
+			font-size: 1.5em;
+			margin-bottom: 1em;
+		}
+		h1
+		{
+			font-size: 2em;
+		}
+		body
+		{
+			background-color: #777;
+			color:white;
+		}
+		.wrapper
+		{
+			width: 800px;
+			margin: 0 auto;
+			padding-top: 11em;
+			text-align: center;
+			max-width: 70%;
+		}
+		input[type=text]
+		{
+			width: 70%;
+			border:none;
+			margin-top: 2.6em;
+			padding: 1em 0.5em;
+			border-radius: 5px; 
+		}
+		.nes-input
+		{
+			width: 56% !important;
+		    border: none;
+		    margin-top: 2.6em;
+		    padding: 1em 0.5em;
+		    border-radius: 5px;
+		    margin-bottom: 2em;
+		}
+		/* styling place holder*/
+		::-webkit-input-value 
+		{
+		   text-align: center;
+		}
+
+		:-moz-placeholder 
+		{ /* Firefox 18- */
+		   text-align: center;  
+		}
+
+		::-moz-placeholder 
+		{  /* Firefox 19+ */
+		   text-align: center;  
+		}
+
+		:-ms-input-placeholder 
+		{  
+		   text-align: center; 
+		}
+
+		/*Styling FORK ME ON GITHUB*/
+		.github-link
+		{
+			position: fixed;
+		    top: 10px;
+		    right: 10px;
+		    z-index: 999;
+		    display: flex;
+		    height: 100px;
+		    color: #333;
+		    text-decoration: none;
+		}
+		.github-link > p.nes-balloon {
+		    align-self: flex-start;
+		    padding: 0.2rem 0.5rem;
+		    font-size: 0.8rem;
+		    color: #333;
+		}	
+		.github-link > i.nes-octocat
+		{
+			    align-self: flex-end;
+		}
+		.nes-octocat {
+		    position: relative;
+		    display: inline-block;
+		    width: 84px;
+		    height: 90px;
+		}
+		.footer {
+    		text-align: center;
+		}
+		footer p {
+			margin-top: 0;
+    		margin-bottom: 1rem;
+		}
+		.footer a {
+    		color: #333;
+    		text-decoration: none;
+		}
+		.footer
+		{
+			width:100%;
+			font-size: 15px;
+		    position:fixed;
+		    bottom:0px;
+		    text-align:center;
+		    z-index:9999;
+		}
+		.footer p 
+		{
+			color:#333;
+		}
