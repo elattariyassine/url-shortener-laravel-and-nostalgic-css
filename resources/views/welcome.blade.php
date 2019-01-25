@@ -1,7 +1,7 @@
 @extends('layout.base')
 
 @section('content')
-<a href="#" class="github-link">
+<a href="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css" class="github-link">
 	<p class="nes-balloon from-right">Fork me <br>on GitHub</p>
 	<i class="nes-octocat"></i>
 </a>
