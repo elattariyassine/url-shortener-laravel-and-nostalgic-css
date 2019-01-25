@@ -1,4 +1,4 @@
 @extends('layout.base')
 @section('content')
-<button class="nes-btn is-error">Error dans le serveur desolé</button>
+<button class="nes-btn is-error">something went wrong</button>
 @endsection
