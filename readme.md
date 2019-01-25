@@ -1,4 +1,4 @@
-##App screen shots:
+# App screen shots:
 
 <br/>
 <p align="center">
