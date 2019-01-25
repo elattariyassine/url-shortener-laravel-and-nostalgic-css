@@ -8,7 +8,7 @@
   <li>Validation included.</li>
     <ul>
        <li>If link is empty.</li>
-       <li>If link in not respecting URL format.</li>
+       <li>If link does not respecting URL format.</li>
     </ul>
 </ul> 
 <br/>
