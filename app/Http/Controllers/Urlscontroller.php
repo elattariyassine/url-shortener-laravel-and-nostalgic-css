@@ -35,7 +35,7 @@ class Urlscontroller extends Controller
 	}*/
 	$record = $this->getRecordForUrl($request->url);
 
-	if ($record) {
+	if (!$record) {
 		return view('result')->with('shortened',$record->shortened);
 	}
 	else
