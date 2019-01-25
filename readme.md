@@ -8,9 +8,9 @@
   <li>Error page included.</li>
   <li>Validation included.</li>
     <ul>
-       <li>If link is empty.<\li>
-       <li>If link in not respecting URL format.<\li>
-    <\ul>
+       <li>If link is empty.</li>
+       <li>If link in not respecting URL format.</li>
+    </ul>
 </ul> 
 <br/>
 <p align="center">
