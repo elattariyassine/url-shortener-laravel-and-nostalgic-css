@@ -23,4 +23,19 @@
 </p>
 <p align="center">
   <img src="https://github.com/ELATTARIYassine/URL-shortener-laravel-5-and-nostalgic-css/blob/master/Github-images/error-case.png?raw=true"  title="hover text"> 
-</p>
+</p> 
+<br/>
+##Here is how to run this project :
+<ul>
+    <li>Download and copy the project to your wamp/xampp/laragon path.</li>
+    <li>Create a database locally utf8_general_ci.</li>
+    <li>Rename .env.example file to .envinside your project root and fill the database information.</li>
+    <li>Open the console and cd your project root directory.</li>
+    <li>Run composer install or php composer.phar install.</li>
+    <li>Run php artisan key:generate.</li>
+    <li>Run php artisan migrate.</li>
+    <li>Run php artisan db:seed to run seeders, if any.</li>
+    <li>Run php artisan serve</li>
+</ul>
+<br/>
+#####You can now access your project at localhost:8000 :)
