@@ -1,7 +1,6 @@
 # APP SCREEN SHOTS:
 <br/>
 <p>URL SHORTENER with laravel 5 and design with Nostalgic css (you can check on github):</p>
-<br/>
 <ul>
   <li>You can't shrink twice or more same link.</li>
   <li>If you need to change shorted link then you need to delete him from database.</li>
